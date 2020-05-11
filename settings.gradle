@@ -1,0 +1,2 @@
+rootProject.name='Thevaram'
+include ':app'
